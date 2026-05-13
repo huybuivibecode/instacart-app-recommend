@@ -111,7 +111,7 @@ def get_product_image(product_name):
     elif 'spinach' in product_lower or 'greens' in product_lower or 'leafy' in product_lower:
         return 'images/spinach.jpg'
     elif 'apple' in product_lower:
-        return 'images/apples.jpg'
+        return 'images/Apples.jpg'
     elif 'organic' in product_lower:
         return 'images/organic.jpg'
     elif 'beef' in product_lower or 'ground' in product_lower:
